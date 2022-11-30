@@ -1,0 +1,7 @@
+require("modules.dashboard")
+require("modules.auto_save")
+require("modules.keybindings")
+require("modules.explorer")
+require("modules.themes")
+require("modules.layout")
+require("modules.flutter")
